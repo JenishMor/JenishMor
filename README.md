@@ -2,11 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFEB00a4&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Jenish+Mor;I'm+24+years+old!;I'm+from+India;I+am+a+Full+Stack+Web+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jenishmor&show_icons=true&count_private=true&hide_border=true&title_color=1e3a8a&icon_color=FFEB00a4&text_color=FFFFE0&bg_color=0d1117" alt="Jenish Mor github stats" /> 
-   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jenishmor&layout=compact&hide_border=true&title_color=1e3a8a&text_color=FFFFE0a4&bg_color=0d1117" />
-</div>
-
 ![Jenish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jenishmor&bg_color=0d1117&color=ff0000&line=ffae00&point=c20000&area=true&hide_border=true)
 
 ### Main Skills:
